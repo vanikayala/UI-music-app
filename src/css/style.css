@@ -1,0 +1,29 @@
+.poster {
+	width: 100%;
+}
+.playIcon {
+	position: relative;
+	right: 0;
+	top: -10;
+	width: 100%;
+	cursor: pointer;
+}
+.player,
+.audioPlayer {
+	width: 100%;
+	outline: none;
+}
+.player {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+.App-header {
+	align-items: unset !important;
+}
+.mb-4 {
+	margin-bottom: 100px;
+}
+.playSong {
+	cursor: pointer;
+}
